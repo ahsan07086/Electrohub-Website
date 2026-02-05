@@ -13,6 +13,8 @@ Features:
 4. Admin can perform CRUD(Create,Read,Update,Delete) operation.<br>
 5. Implementation of backend using MVC (Model,View,Controller) architectural pattern.
 6. A stripe payment gateway system.
+7. A chatbot API call system.
+8. An Email confirmation system.
 
 ## 🖼️ Demo Pictures Related to the Project
 
